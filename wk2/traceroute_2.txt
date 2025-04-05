@@ -1,0 +1,24 @@
+Microsoft Windows [Version 10.0.22631.5039]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\Users\Lorenzo>tracert 137.184.167.82
+
+Tracing route to 137.184.167.82 over a maximum of 30 hops
+
+  1     4 ms     3 ms     2 ms  mynetwork.home [192.168.2.1]
+  2     4 ms     4 ms     3 ms  142.124.36.203
+  3     *        *        *     Request timed out.
+  4     *        *        *     Request timed out.
+  5     6 ms     5 ms     7 ms  64.230.59.204
+  6     7 ms     9 ms     5 ms  142.124.125.14
+  7     4 ms     4 ms     4 ms  64.230.97.159
+  8     5 ms     4 ms     5 ms  ix-be-9.ecore1.tnk-toronto.as6453.net [63.243.172.25]
+  9     4 ms     4 ms     4 ms  66.110.50.163
+ 10     5 ms     6 ms     5 ms  143.244.224.46
+ 11     *        *        *     Request timed out.
+ 12     *        *        *     Request timed out.
+ 13     7 ms     6 ms     5 ms  137.184.167.82
+
+Trace complete.
+
+C:\Users\Lorenzo>                                                                                                                                                                                                                                                                                                                                                                                                   

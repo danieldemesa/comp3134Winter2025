@@ -1,0 +1,63 @@
+https://ppa.launchpadcontent.net/ondrej/php/ubuntu noble InRelease
+Reading package lists... Done
+Reading package lists... Done
+Building dependency tree... Done
+Reading state information... Done
+apache2-utils is already the newest version (2.4.58-1ubuntu8.5).
+0 upgraded, 0 newly installed, 0 to remove and 99 not upgraded.
+root@lamp-ubuntu-s-1vcpu-1gb-tor1-01:~# ping google.com
+PING google.com (172.217.165.14) 56(84) bytes of data.
+64 bytes from yyz12s06-in-f14.1e100.net (172.217.165.14): icmp_seq=1 ttl=59 time=2.08 ms
+64 bytes from yyz12s06-in-f14.1e100.net (172.217.165.14): icmp_seq=2 ttl=59 time=1.50 ms
+64 bytes from yyz12s06-in-f14.1e100.net (172.217.165.14): icmp_seq=3 ttl=59 time=1.49 ms
+64 bytes from yyz12s06-in-f14.1e100.net (172.217.165.14): icmp_seq=4 ttl=59 time=1.47 ms
+64 bytes from yyz12s06-in-f14.1e100.net (172.217.165.14): icmp_seq=5 ttl=59 time=1.44 ms
+64 bytes from yyz12s06-in-f14.1e100.net (172.217.165.14): icmp_seq=6 ttl=59 time=1.45 ms
+64 bytes from yyz12s06-in-f14.1e100.net (172.217.165.14): icmp_seq=7 ttl=59 time=1.46 ms
+64 bytes from yyz12s06-in-f14.1e100.net (172.217.165.14): icmp_seq=8 ttl=59 time=1.42 ms
+64 bytes from yyz12s06-in-f14.1e100.net (172.217.165.14): icmp_seq=9 ttl=59 time=1.45 ms
+64 bytes from yyz12s06-in-f14.1e100.net (172.217.165.14): icmp_seq=10 ttl=59 time=1.41 ms
+64 bytes from yyz12s06-in-f14.1e100.net (172.217.165.14): icmp_seq=11 ttl=59 time=1.47 ms
+64 bytes from yyz12s06-in-f14.1e100.net (172.217.165.14): icmp_seq=12 ttl=59 time=1.50 ms
+64 bytes from yyz12s06-in-f14.1e100.net (172.217.165.14): icmp_seq=13 ttl=59 time=1.45 ms
+64 bytes from yyz12s06-in-f14.1e100.net (172.217.165.14): icmp_seq=14 ttl=59 time=1.43 ms
+64 bytes from yyz12s06-in-f14.1e100.net (172.217.165.14): icmp_seq=15 ttl=59 time=1.41 ms
+64 bytes from yyz12s06-in-f14.1e100.net (172.217.165.14): icmp_seq=16 ttl=59 time=1.44 ms
+64 bytes from yyz12s06-in-f14.1e100.net (172.217.165.14): icmp_seq=17 ttl=59 time=1.44 ms
+64 bytes from yyz12s06-in-f14.1e100.net (172.217.165.14): icmp_seq=18 ttl=59 time=1.43 ms
+64 bytes from yyz12s06-in-f14.1e100.net (172.217.165.14): icmp_seq=19 ttl=59 time=1.44 ms
+64 bytes from yyz12s06-in-f14.1e100.net (172.217.165.14): icmp_seq=20 ttl=59 time=1.45 ms
+64 bytes from yyz12s06-in-f14.1e100.net (172.217.165.14): icmp_seq=21 ttl=59 time=1.47 ms
+64 bytes from yyz12s06-in-f14.1e100.net (172.217.165.14): icmp_seq=22 ttl=59 time=1.42 ms
+64 bytes from yyz12s06-in-f14.1e100.net (172.217.165.14): icmp_seq=23 ttl=59 time=1.43 ms
+64 bytes from yyz12s06-in-f14.1e100.net (172.217.165.14): icmp_seq=24 ttl=59 time=1.41 ms
+64 bytes from yyz12s06-in-f14.1e100.net (172.217.165.14): icmp_seq=25 ttl=59 time=1.45 ms
+64 bytes from yyz12s06-in-f14.1e100.net (172.217.165.14): icmp_seq=26 ttl=59 time=1.45 ms
+64 bytes from yyz12s06-in-f14.1e100.net (172.217.165.14): icmp_seq=27 ttl=59 time=1.42 ms
+64 bytes from yyz12s06-in-f14.1e100.net (172.217.165.14): icmp_seq=28 ttl=59 time=1.43 ms
+64 bytes from yyz12s06-in-f14.1e100.net (172.217.165.14): icmp_seq=29 ttl=59 time=1.45 ms
+64 bytes from yyz12s06-in-f14.1e100.net (172.217.165.14): icmp_seq=30 ttl=59 time=1.46 ms
+64 bytes from yyz12s06-in-f14.1e100.net (172.217.165.14): icmp_seq=31 ttl=59 time=1.41 ms
+64 bytes from yyz12s06-in-f14.1e100.net (172.217.165.14): icmp_seq=32 ttl=59 time=1.45 ms
+64 bytes from yyz12s06-in-f14.1e100.net (172.217.165.14): icmp_seq=33 ttl=59 time=1.45 ms
+64 bytes from yyz12s06-in-f14.1e100.net (172.217.165.14): icmp_seq=34 ttl=59 time=1.45 ms
+64 bytes from yyz12s06-in-f14.1e100.net (172.217.165.14): icmp_seq=35 ttl=59 time=1.42 ms
+64 bytes from yyz12s06-in-f14.1e100.net (172.217.165.14): icmp_seq=36 ttl=59 time=1.45 ms
+64 bytes from yyz12s06-in-f14.1e100.net (172.217.165.14): icmp_seq=37 ttl=59 time=1.49 ms
+64 bytes from yyz12s06-in-f14.1e100.net (172.217.165.14): icmp_seq=38 ttl=59 time=1.45 ms
+64 bytes from yyz12s06-in-f14.1e100.net (172.217.165.14): icmp_seq=39 ttl=59 time=1.45 ms
+64 bytes from yyz12s06-in-f14.1e100.net (172.217.165.14): icmp_seq=40 ttl=59 time=1.42 ms
+64 bytes from yyz12s06-in-f14.1e100.net (172.217.165.14): icmp_seq=41 ttl=59 time=1.42 ms
+64 bytes from yyz12s06-in-f14.1e100.net (172.217.165.14): icmp_seq=42 ttl=59 time=1.42 ms
+64 bytes from yyz12s06-in-f14.1e100.net (172.217.165.14): icmp_seq=43 ttl=59 time=1.42 ms
+64 bytes from yyz12s06-in-f14.1e100.net (172.217.165.14): icmp_seq=44 ttl=59 time=1.45 ms
+^C
+--- google.com ping statistics ---
+44 packets transmitted, 44 received, 0% packet loss, time 43066ms
+rtt min/avg/max/mdev = 1.406/1.458/2.077/0.097 ms
+root@lamp-ubuntu-s-1vcpu-1gb-tor1-01:~# ^C
+root@lamp-ubuntu-s-1vcpu-1gb-tor1-01:~#
+cd /d/Users/Lorenzo/Desktop/comp3134Winter2025/wk2
+notepad ping_1.txt
+-bash: cd: /d/Users/Lorenzo/Desktop/comp3134Winter2025/wk2: No such file or directory
+notepad: command not found
